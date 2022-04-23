@@ -23,16 +23,16 @@ TagManager:
   - 
   - 
   - 
+  - Background
   - 
   - 
+  - Decoration
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - Player
+  - Enemy
+  - Attacks
   - 
   - 
   - 
@@ -40,4 +40,22 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2959393103
+    locked: 0
+  - name: Decoration
+    uniqueID: 3900398243
+    locked: 0
+  - name: Ground
+    uniqueID: 1037597897
+    locked: 0
+  - name: Enemy
+    uniqueID: 920456095
+    locked: 0
+  - name: Foreground
+    uniqueID: 306623597
+    locked: 0
+  - name: UI
+    uniqueID: 1480031583
     locked: 0

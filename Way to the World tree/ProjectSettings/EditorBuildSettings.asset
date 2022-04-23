@@ -6,6 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Main menu.unity
+    guid: 99b644033d26a42468369714d53f1b35
+  - enabled: 1
+    path: Assets/Scenes/Caves.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Defiled Forest.unity
+    guid: da9fcfbc68600f54f9763188af25a299
+  - enabled: 1
+    path: Assets/Scenes/Core Forest.unity
+    guid: b0bff1b87bb6fee47af62d0450c65aab
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: d3e1198e9be19ce4fb6bbde3baf3ab71
   m_configObjects: {}
