@@ -33,6 +33,7 @@ public class PlayerMovement : MonoBehaviour
 
         if (Input.GetButtonDown("Cancel"))
         {
+            Cursor.visible = true;
             SceneManager.LoadScene("Main menu");
         }
     }

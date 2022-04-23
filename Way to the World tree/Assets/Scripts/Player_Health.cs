@@ -15,6 +15,7 @@ public class Player_Health : MonoBehaviour
     {
         currentHealth = maxHealth;
         healtBar.SetMaxHealth(maxHealth);
+        Cursor.visible = false;
     }
     public void TakeDamage(int dmg)
     {

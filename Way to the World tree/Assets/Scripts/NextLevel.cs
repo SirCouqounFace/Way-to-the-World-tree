@@ -9,6 +9,7 @@ public class NextLevel : MonoBehaviour
     {
         if (collider.gameObject.CompareTag("Player"))
         {
+            Cursor.visible = true;
             Invoke("LoadNextLevel", 1f);
         }
     }
