@@ -24,6 +24,7 @@ ScriptsOnlyBuild:
     - UnityEditor.U2D.Animation.BoneGizmo
     Unity.2D.IK.Editor.dll:
     - UnityEditor.U2D.IK.IKEditorManager
+    - UnityEditor.U2D.IK.IKGizmos
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridBrush
     - UnityEditor.Tilemaps.GridBrushEditor
@@ -477,6 +478,8 @@ ScriptsOnlyBuild:
     - Class: 157
       Script: {instanceID: 0}
     - Class: 196
+      Script: {instanceID: 0}
+    - Class: 212
       Script: {instanceID: 0}
     - Class: 213
       Script: {instanceID: 0}
@@ -1376,4 +1379,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/Defiled Forest.unity
   - Assets/Scenes/Core Forest.unity
   - Assets/Scenes/Ending.unity
-  playerPath: C:/Users/PCMasterRace/Desktop/Final Build/Way to the World tree.exe
+  playerPath: C:/Users/PCMasterRace/Desktop/Game_Final/Way to the World tree.exe
